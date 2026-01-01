@@ -1,4 +1,4 @@
-# Data Professional Survey Breakdown Dashboard (Power BI)
+# Data Professional Survey Dashboard (Power BI)
 
 ## Project Overview
 This project analyzes survey responses from data professionals using Power BI to understand
