@@ -1,4 +1,4 @@
-# Nashville Housing Data Cleaning using SQL
+# Housing Data Quality & Analysis (SQL)
 
 ## Project Overview
 This project focuses on cleaning and transforming a real-world housing dataset using SQL to
