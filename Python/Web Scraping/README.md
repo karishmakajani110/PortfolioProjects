@@ -1,24 +1,39 @@
 # Wikipedia Web Scraping (Python)
 
-This project extracts structured tabular data from Wikipedia pages and converts it into clean, analysis-ready datasets.
+## Project Overview
+This project uses Python to extract structured tabular data from Wikipedia pages and convert it into clean, analysis-ready datasets. The focus is on collecting data, handling basic cleaning tasks, and preparing the output for downstream analysis.
+
+---
 
 ## Objective
-To demonstrate web scraping and data preparation using Python on real-world data.
+- Extract tabular data from web pages using Python  
+- Clean and structure the data for analysis  
+- Export the processed data into CSV format  
 
-## Key Features
-- Scrapes HTML tables from Wikipedia
-- Cleans and processes data using pandas
-- Handles missing values
-- Exports data to CSV format
+---
 
 ## Tools & Libraries
-- Python
-- BeautifulSoup
-- pandas
-- requests
+- Python  
+- BeautifulSoup  
+- pandas  
+- requests  
+
+---
+
+## Data Extraction & Preparation
+The following steps were performed in this project:
+
+- Scraped HTML tables from Wikipedia pages using BeautifulSoup  
+- Loaded scraped data into pandas DataFrames  
+- Handled missing values and basic data inconsistencies  
+- Exported cleaned data into CSV files  
+
+---
 
 ## Output
-- Clean CSV files suitable for analysis and reporting
+The final output consists of clean CSV files that can be used for analysis or reporting.
+
+---
 
 ## Notes
-This project focuses on data extraction and preparation rather than visualization.
+This project focuses on data extraction and preparation using Python rather than visualization or advanced analysis.
